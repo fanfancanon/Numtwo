@@ -1,0 +1,11 @@
+
+.page-home2{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.page-home2-child{
+  width: 28%;
+  background: red;
+  margin: 0.1rem;
+}

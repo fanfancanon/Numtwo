@@ -1,0 +1,11 @@
+.pages-home1{
+  width: 100%;
+}
+.pages-home1-child{
+  width: 100%;
+  height: 0.7rem;
+  border-bottom: 1px solid gainsboro;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

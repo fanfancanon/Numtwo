@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 0.2rem;
+  text-decoration: none;
+}
+.app{
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+}
+.app-head{
+  width: 100%;
+  height: 0.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid gray;
+}
+.app-body{
+  display: flex;
+}
+.home1{
+  width: 2rem;
+  height: 100%;
+  background: beige;
+}
+.home2{
+  flex: 1;
+}
+.active{
+  color: red;
+}
